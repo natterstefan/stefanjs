@@ -1,0 +1,17 @@
+{
+  "name": "stefanjs",
+  "version": "0.0.1",
+  "description": "Work in Progress",
+  "main": "./src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natterstefan/stefanjs"
+  },
+  "files": ["src"],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "Stefan Natter",
+  "license": "Apache.2.0"
+}
